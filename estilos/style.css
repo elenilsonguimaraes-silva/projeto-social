@@ -14,7 +14,7 @@ html, body {
 }
 
 body {
-    background: url(../imagens2/fundo.jpg) no-repeat top center;
+    background: url(../imagens/fundo.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -31,16 +31,16 @@ section#telefone{
     transform: translate(-50%, -50%);
     width: 640px;
     height: 544px;
-    background:url(../imagens2/maiconfz-screen-1315650_640.png) no-repeat;
+    background:url(../imagens/maiconfz-screen-1315650_640.png) no-repeat;
+    
 }
 
 iframe#tela {
     position: relative;
-    top: 30px;
+    top: 28px;
     left: 50px;
     width: 540px;
-    height: 300px;
-    border: 1px solid red;
+    height: 343px;
 }
 
 section#redes-sociais {
